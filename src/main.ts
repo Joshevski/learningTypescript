@@ -129,5 +129,4 @@ logMsg(addAll(2, 3, 4))
 logMsg(addAll(2, 3))
 logMsg(sumAll(2, 3))
 
-
-// add
+const asdd = 2
